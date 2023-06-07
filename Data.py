@@ -17,14 +17,14 @@ class Data:
         generate_single_button,
         [
             InlineKeyboardButton(
-                "𝘴ꪮꪊ𝘳ᥴꫀ 𝓽ꫀρ𝓽ꫝꪮꪀ", url="https://t.me/Tepthon"
+                "𓏺َِ᥉َِ᥆َِꪊَِᖇَِᥴُِ꧖ َِ᥉َِρُِꪖَِᖇَِᥴُِƙَِ", url="https://t.me/ZZZ7iZ"
             )
         ],
         [
             InlineKeyboardButton("كيفية استخدام البوت ?", callback_data="help"),
             InlineKeyboardButton("حـول  ❍", callback_data="about"),
         ],
-        [InlineKeyboardButton("𝗗𝗘𝗩", url="https://t.me/PPF22")],
+        [InlineKeyboardButton("𝗗𝗘𝗩", url="https://t.me/IIIlIIv")],
     ]
 
     START = """
@@ -33,7 +33,7 @@ class Data:
 هذا البوت مخصص لاستخراج الجلسات
 مثل: - البايروجرام ، التيرمكس
 من خلال إرسال الأيبي ايدي والأيبي هاش ورقم هاتفك والكود والتحقق بخطوتين إذا كنت مفعله
-𝗗𝗘𝗩 :- @PPF22
+𝗗𝗘𝗩 :- @ZZZ7iZ
     """
 
     HELP = """
@@ -52,23 +52,23 @@ class Data:
     ABOUT = """
 **حول البوت** 
 
-هذا هو بوت استخراج كود تيرمكس وبايروجرام مقدم من @PPF22
+هذا هو بوت استخراج كود تيرمكس وبايروجرام مقدم من @ZZZ7iZ
 
-قناة السورس : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Tepthon)
+قناة السورس : [𓏺َِ᥉َِ᥆َِꪊَِᖇَِᥴُِ꧖ َِ᥉َِρُِꪖَِᖇَِᥴُِƙَِ](https://t.me/ZZZ7iZ)
 لغة البرمجة : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 اللغة : [ᴘʏᴛʜᴏɴ](www.python.org)
-𝗗𝗘𝗩 : @PPF22
+𝗗𝗘𝗩 : @IIIlIIv
     """
 
     # Repo Message
     REPO = """
 ━━━━━━━━━━━━━━━━━━━━━━━━
-💥 أنا مشغل لكي أقوم باستخراج الجلسات 
+💥 **قائمه معلومات المطور **
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ My . [✨](https://t.me/P17_12)
-┣★ 𝗗𝗘𝗩𝗦 : [اضغط هنا](https://t.me/PPF22)
-┣★ السورس [𝘴ꪮꪊ𝘳ᥴꫀ 𝓽ꫀρ𝓽ꫝꪮꪀ](https://t.me/Tepthon)
+┣★ **السورس** . [𓏺َِ᥉َِ᥆َِꪊَِᖇَِᥴُِ꧖ َِ᥉َِρُِꪖَِᖇَِᥴُِƙَِ](https://t.me/ZZZ7iZ)
+┣★ **𝗗𝗘𝗩𝗦** : [اضغط هنا](https://t.me/IIIlIIv)
+┣★ **Music** : [اضغط هنا](https://t.me/du2sbot)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-إذا كان لديك أي سؤال ، فراسل » المطور » [𝗗𝗘𝗩] @PPF22
+إذا كان لديك أي سؤال ، فراسل » المطور » [𝗗𝗘𝗩] @IIIlIIv
    """
