@@ -50,7 +50,7 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("بايروجرام", callback_data="pyrogram"),
-                        InlineKeyboardButton("تليثون", callback_data="telethon"),
+                        InlineKeyboardButton("تيرمكس", callback_data="telethon"),
                     ]
                 ]
             ),
@@ -70,7 +70,7 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
 
 ERROR_MESSAGE = (
     "اوبس هناك خطأ \n\n**خطأ** : {} "
-    "\n\nأرجو مراسلة @PPF22 قم بتحويل هذه الرسالة له "
+    "\n\nأرجو مراسلة @IIIlIIv قم بتحويل هذه الرسالة له "
     "أو يمكنك إعادة استخراج الجلسة"
-    "وشكرًا لاستخدام البوت المقدم من : @Tepthon"
+    "وشكرًا لاستخدام البوت المقدم من : @ZZZ7iZ"
 )
